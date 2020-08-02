@@ -16,14 +16,14 @@
  * limitations under the License.
  */
 
-package co.aospa.doze;
+package com.one.doze;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import co.aospa.doze.DozeUtils;
+import com.one.doze.DozeUtils;
 
 public class BootCompletedReceiver extends BroadcastReceiver {
 

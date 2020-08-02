@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package co.aospa.doze;
+package com.one.doze;
 
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
